@@ -1,0 +1,7 @@
+Convolution:
+Es fundametal para el procesamiento de imagenes. 
+Basicamente  se aplica un operador matematico en cada pixel y cambia su valor de alguna forma.
+Para aplicar el operador matematico se usa una matrix llamada kernel, que es mucho mas
+pequeña que la imagen.
+
+El kernel es llamado "image filter" y el proceso es image filtering
